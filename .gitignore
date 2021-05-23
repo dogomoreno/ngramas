@@ -1,0 +1,7 @@
+
+N-gramas/
+C2_W3_Assignment.ipynb
+Datos/Model.RData
+*.pickle
+tokenizers/.DS_Store
+*.R
